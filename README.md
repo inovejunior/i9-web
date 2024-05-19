@@ -1,4 +1,4 @@
-# Inove Jr - Site
+# Inove Jr - Site Institucional
 
 [![Git](https://img.shields.io/badge/Git-%23000?style=for-the-badge&logo=git)](https://git-scm.com/)
 [![Node](https://img.shields.io/badge/Node.js-%23000?style=for-the-badge&logo=nodedotjs)](https://nodejs.org/)
